@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "azure-cv", "azure-cv", "{5F857D67-010A-4EEF-9B12-2C2E03A62020}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backend", "azure-cv\backend\backend.csproj", "{F2FEA2D6-5853-4C42-B0A8-07F997EAD5EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backend", "backend\backend.csproj", "{F2FEA2D6-5853-4C42-B0A8-07F997EAD5EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
